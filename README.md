@@ -8,6 +8,7 @@
 |---|---|
 | [crossing-the-chasm](skills/crossing-the-chasm/SKILL.md) | 跨越鸿沟产品官。判断产品卡在哪一段，选滩头细分，整体产品、定位陈述、渠道定价、鸿沟后组织切换。 |
 | [skill-forge](skills/skill-forge/SKILL.md) | Skill工厂。三问选题闸口、书/纪要/聊天记录/开源skill四种进料、标准化与非标准化两条评估线、好skill七条标准。 |
+| [growth-marketing](skills/growth-marketing/SKILL.md) | 首席增长官 + 营销品牌投放。增长三道诊断闸口、北极星指标树、投放算账与素材闭环、Dunford 品牌定位、营销文案三套口径、增长实验、加密与上市公司双重合规红线。 |
 
 ## 安装
 
